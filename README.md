@@ -3,8 +3,8 @@ This repository is to document my learnings and progress towards AUV-Society.
 **Contents**
 - [Intro](#intro)
 - [Session 0](#session-0)
-  - [Git:](#git)
-  - [Markdown:](#markdown)
+  - [Git](#git)
+  - [Markdown](#markdown)
 
 ---
 
@@ -18,7 +18,7 @@ This repository is to document my learnings and progress towards AUV-Society.
 ---
 
 ## Session 0
-### Git:
+### Git
 Since I have previously used **Git** and knew the basic commands I watched,
   1. [_Git for Professionals Tutorial_](https://www.youtube.com/watch?v=Uszj_k0DGsg) and [_Advanced Git Tutorial_](https://www.youtube.com/watch?v=qsTthZi23VE) by **FreeCodeCamp**. And learnt about,
      - The Perfect Commit
@@ -37,7 +37,7 @@ Since I have previously used **Git** and knew the basic commands I watched,
      - Git Objects - Blobs, Trees, Commits
      - How every commit is linked to previous commit.
 
-### Markdown:
+### Markdown
 I learnt Markdown by watching [some videos](https://www.youtube.com/watch?v=HUBNt18RFbo),
 - Heading Levels
 - Horizontal Rules
