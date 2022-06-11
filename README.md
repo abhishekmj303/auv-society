@@ -1,12 +1,19 @@
+<img width="150" class="center" src="img/logo.jpg" />
+
 This repository is to document my learnings and progress towards AUV-Society.
 
-**Contents**
+**Table of Contents**
 - [Intro](#intro)
 - [Session 0](#session-0)
   - [Git](#git)
   - [Markdown](#markdown)
+- [Session 1](#session-1)
+  - [Question 1](#question-1)
+  - [Question 2](#question-2)
+  - [Question 3](#question-3)
+  - [Question 4](#question-4)
 
----
+
 
 ## Intro
 - I previously knew programming in **Python** and **C**. I have also written many [python scripts](https://github.com/abhishekmj303/Virtual-Assistant) to automate things in my computer.
@@ -15,7 +22,7 @@ This repository is to document my learnings and progress towards AUV-Society.
 - I had also learnt the working of **Docker** along with docker-compose files by hosting some OpenSource projects in my own server.
 - Recently, I started learning **Bash Scripting** for linux and wrote a [installation script](https://github.com/abhishekmj303/LogiNetwork/blob/master/linux/install.sh) for one of my recent project.
 
----
+
 
 ## Session 0
 ### Git
@@ -52,4 +59,34 @@ I learnt Markdown by watching [some videos](https://www.youtube.com/watch?v=HUBN
 
 I have also written some README.md and TODO.md files for my own projects.
 
----
+
+
+## Session 1
+### Question 1
+> Write a shell script to check to see if a file_path exists. If it does exist, display it on the terminal, that file_path exists. Next, check to see if the file is writable. If the file is writable, display, You have permission to edit the file:-file_path. If you cannot, display, You do NOT have permission to edit the file:- file_path
+
+Output:
+
+![](img/s01_q01.png)
+
+### Question 2
+> Replace all occurrences of 0xA0 with 0x50 and 0xFF with 0x7F for the given input file.
+Input File:- hexa.txt
+
+Output:
+
+![](img/s01_q02.png)
+
+### Question 3
+> Write a bash script that makes a folder containing a file with read, write, execute access and then delete the entire folder.
+
+Output:
+
+![](img/s01_q03.png)
+
+### Question 4
+> Write down an example and execute for all the loops in Shell Scripting.
+
+Output:
+
+![](img/s01_q04.png)
