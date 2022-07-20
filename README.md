@@ -12,6 +12,9 @@ This repository is to document my learnings and progress towards AUV-Society.
   - [Question 2](#question-2)
   - [Question 3](#question-3)
   - [Question 4](#question-4)
+- [Final Task](#final-task)
+  - [Chat Bot](#chat-bot)
+  - [Detect Gate](#detect-gate)
 
 
 
@@ -90,3 +93,17 @@ Output:
 Output:
 
 ![](img/s01_q04.png)
+
+## Final Task
+
+### Chat Bot
+> Create a ROS Package called “chat_bot” which contains a conversation between two users (say A and B)
+
+Chat interface for A | Chat interface for B
+:---: | :---:
+![](img/chat_A.png) | ![](img/chat_B.png)
+
+### Detect Gate
+> Write an algorithm to detect the gate in the [given video](comp_vision/6.m4v). Detection should not involve any Machine Learning or Deep Learning.
+
+![](img/detect_gate.png)
